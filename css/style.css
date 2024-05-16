@@ -1,0 +1,16 @@
+body{
+	background: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+.header-nav{ background: #000ccc; }
+
+.header-nav nav ul{ text-align: left; }
+.header-nav nav ul li{ display: inline-block; }
+.header-nav nav ul li a{ display: inline-block; color: #fff; text-decoration: none; padding: 15px 20px; text-transform: uppercase; font-size: 18px; }
+.header-nav nav ul li a:hover{ background: #000fff; }
+
+
+
+footer{ padding: 15px 0 1px; background: #000ccc; color: #fff; text-align: center; }
